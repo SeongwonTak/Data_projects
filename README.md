@@ -4,15 +4,14 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 
 ## 진행예정
 
-### Credit_Card Fraud detection
-- Project 설명 : 신용카드 사용 이력에 따른 사기 검출 모델 생성
-
 ## 진행중
 
 ### Common Readability Prize (2021.9~)
 - Project 설명 : 영어 지문의 난이도를 평가하는 프로젝트
 - Skill Sets : 영어 전처리(Tokenize -> Tf-Idf/Word2 Vec -> 모델 적용), Pytorch를 활용한 신경망/1D-CNN
 
+### Credit_Card Fraud detection
+- Project 설명 : 신용카드 사용 이력에 따른 사기 검출 모델 생성
 
 ## 진행완료
 
