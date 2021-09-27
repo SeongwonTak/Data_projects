@@ -13,7 +13,7 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 ### Credit_Card Fraud detection
 - Project 설명 : 신용카드 사용 이력에 따른 사기 검출 모델 생성
 
-## 진행완료
+## 1차진행완료
 
 ### League of Legends 승부 예측 프로젝트 (2021.4월 초)
 - Project 설명 : Kaggle LOL Data 바탕 챌린저 경기에 대한 승패 예측 모델 생성
