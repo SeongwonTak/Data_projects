@@ -6,10 +6,6 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 
 ## 진행중
 
-### Common Readability Prize (2021.9~)
-- Project 설명 : 영어 지문의 난이도를 평가하는 프로젝트
-- Skill Sets : 영어 전처리(Tokenize -> Tf-Idf/Word2 Vec -> 모델 적용), Pytorch를 활용한 신경망/1D-CNN
-
 ### Credit_Card Fraud detection
 - Project 설명 : 신용카드 사용 이력에 따른 사기 검출 모델 생성
 
@@ -25,3 +21,9 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 - Project 설명 : Content-based를 활용한 보드게임 추천
 - 플레이 인원수에 따라, 경험한 혹은 가장 좋아하는 3개의 보드게임에 따른 유사 보드게임 추천
 - 발전방향 : 평점 데이터 확보시 이를 활용하여 CF 혹은 Hybrid 방식의 보드게임 추천 가능
+
+
+### Common Readability Prize (2021.9~)
+- Project 설명 : 영어 지문의 난이도를 평가하는 프로젝트
+- 영어 전처리(Tokenize -> Tf-Idf/Word2 Vec -> 모델 적용), Pytorch를 활용한 신경망 적용
+- 발전방향 : Pytorch 구현에 익숙해진 후 1D-CNN, RNN등 재구현 실시.
