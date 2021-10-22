@@ -6,6 +6,12 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 
 ## 진행중
 
+### DataScientist Job Description Analysis(2021.10.22 ~)
+- Crawling 사전 학습을 통한 기반 지식 학습
+- 여러 채용 사이트의 Data Scientist 의 JD 수집
+- 핵심 키워드 추출 및 필수 기술 스택 정리
+- 기존 나의 스택/방향성과의 Matching index 개발.
+
 ## 1차진행완료
 
 ### League of Legends 승부 예측 프로젝트 (2021.4월 초, 2021.9.27~ 개선 진행중)
