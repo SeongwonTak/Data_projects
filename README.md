@@ -13,11 +13,6 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 - 기존 나의 스택/방향성과의 Matching index 개발.
 - Obstacle : Crawling진행의 어려움. 다른 방법에 대한 학습 필요?
 
-### Credit_Card Fraud detection (2021.9~, 10월 말 )
-- Project 설명 : 신용카드 사용 이력에 따른 사기 검출 모델 생성
-- 발전 방향 : Outlier 처리법, Fraud Detection 알고리즘 공부 후 재도전.
-- Obstacle : Precision 대비 Recall이 매우 낮으며, Recall을 잡으면 Precision이 매우 낮아져 고민.
-- 실제로 Recall이 1이나 Precision이 0.04 정도인 RandomForest를 만들 수 있기에..더 고민.
 
 ## 1차진행완료
 
@@ -32,10 +27,13 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 - 플레이 인원수에 따라, 경험한 혹은 가장 좋아하는 3개의 보드게임에 따른 유사 보드게임 추천
 - 발전방향 : 평점 데이터 확보시 이를 활용하여 CF 혹은 Hybrid 방식의 보드게임 추천 가능
 
-
 ### Common Readability Prize (2021.9~)
 - Project 설명 : 영어 지문의 난이도를 평가하는 프로젝트
 - 영어 전처리(Tokenize -> Tf-Idf/Word2 Vec -> 모델 적용), Pytorch를 활용한 신경망 적용
 - 발전방향 : Pytorch 구현에 익숙해진 후 1D-CNN, RNN등 재구현 실시.
 
-
+### Credit_Card Fraud detection (2021.9~10.13, 2021.10.25~11.2 1차 개선 완료 )
+- Project 설명 : 신용카드 사용 이력에 따른 사기 검출 모델 생성
+- 발전 방향 : Imbalanced data를 효과적으로 처리할 수 있는 방향에 대해 고려.
+- Obstacle : Precision 대비 Recall이 매우 낮으며, Recall을 잡으면 Precision이 매우 낮아져 고민. PCA 등도 크게 유효하지 않아보임.
+- 실제로 Recall이 1이나 Precision이 0.04 정도인 RandomForest를 만들 수 있기에..더 고민.
