@@ -4,14 +4,15 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 
 ## 진행예정
 
-## 진행중
-
-### DataScientist Job Description Analysis(2021.10.22 ~)
+### DataScientist Job Description Analysis
 - Crawling 사전 학습을 통한 기반 지식 학습
 - 여러 채용 사이트의 Data Scientist 의 JD 수집
 - 핵심 키워드 추출 및 필수 기술 스택 정리
 - 기존 나의 스택/방향성과의 Matching index 개발.
 - Obstacle : Crawling진행의 어려움. 다른 방법에 대한 학습 필요?
+- Crawling 방법론에 대한 정확한 학습의 필요로 보류 후 진행 예정입니다.
+ 
+## 진행중
 
 
 ## 진행완료
