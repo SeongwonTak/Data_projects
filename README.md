@@ -12,7 +12,7 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 - Obstacle : Crawling진행의 어려움. 다른 방법에 대한 학습 필요?
 - Crawling 방법론에 대한 정확한 학습의 필요로 보류 후 진행 예정입니다.
  
-## 진행중
+## 현재 작업중
 
 
 ## 진행완료
@@ -22,6 +22,7 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 - 발전 방향 : Imbalanced data를 효과적으로 처리할 수 있는 방향에 대해 고려.
 - Obstacle : Precision 대비 Recall이 매우 낮으며, Recall을 잡으면 Precision이 매우 낮아져 고민. PCA 등도 크게 유효하지 않아보임.
 - 실제로 Recall이 1이나 Precision이 0.04 정도인 RandomForest를 만들 수 있기에..더 고민.
+- 추가 학습 진행 후 개선 예정.
 
 ### Common Readability Prize (2021.9~)
 - Project 설명 : 영어 지문의 난이도를 평가하는 프로젝트
