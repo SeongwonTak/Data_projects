@@ -5,15 +5,18 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 ## 진행예정
 
 ### DataScientist Job Description Analysis
-- Crawling 사전 학습을 통한 기반 지식 학습
-- 여러 채용 사이트의 Data Scientist 의 JD 수집
-- 핵심 키워드 추출 및 필수 기술 스택 정리
-- 기존 나의 스택/방향성과의 Matching index 개발.
-- Obstacle : Crawling진행의 어려움. 다른 방법에 대한 학습 필요?
-- Crawling 방법론에 대한 정확한 학습의 필요로 보류 후 진행 예정입니다.
  
 ## 현재 작업중
 
+### Physical Fitness Analysis ('21.11.27~)
+- Project 목표 : 
+  - 장애인 및 비장애인의 체력 검정 결과에 따른 신체 차이 특성 분석
+  - 체력 검정 결과에 따른 BMI등 건강 관련 지표의 예측
+  - 예측 모델의 저장 및 신규 데이터 입력에 따라 예측이 잘 되는지 실험
+- 새로 배우게 될 것들
+  - json 파일을 다루는 법 및 api 파일을 읽어오는 방법
+  - 효과적인 인사이트 도출을 위한 다양한 시각화 방법
+  - 예측 모델의 저장 및 활용 방법
 
 ## 진행완료
 
