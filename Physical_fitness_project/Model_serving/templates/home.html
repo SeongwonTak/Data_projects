@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fat-rate Prediction</title>
+</head>
+<body>
+    <center>
+        <h1> Fat rate(체지방) Prediction
+        <form method="POST", action="{{url_for('get_fat')}}">
+           <b> 나이 :  <input type="text", name='data_age', placeholder="enter 1"> <br><br>
+            키 :  <input type="text", name='data_height', placeholder="enter 2"> <br><br>
+            몸무게 :  <input type="text", name='data_weight', placeholder="enter 3"> <br><br>
+            제자리멀리뛰기 기록(cm) :  <input type="text", name='data_jump', placeholder="enter 4"> <br><br>
+            셔틀런 기록(개) : <input type="text", name='data_shuttle', placeholder="enter 5"> <br><br><br></b>
+            <input type="submit" , value='predict!' >
+        </form>
+        </h1>
+    </center>
+</body>
+</html>
