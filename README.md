@@ -3,29 +3,37 @@
 Data 분석 관련 진행 개인 Project 모음입니다.
 
 ## 진행예정
-
-### DataScientist Job Description Analysis
  
 ## 현재 작업중
 
-### Physical Fitness Analysis ('21.11.27~)
+## 1차 진행완료
+
+### Physical Fitness Analysis (1차 '21.11.27~'21.12.9)
 - Project 목표 : 
   - 장애인 및 비장애인의 체력 검정 결과에 따른 신체 차이 특성 분석
   - 체력 검정 결과에 따른 BMI등 건강 관련 지표의 예측
   - 예측 모델의 저장 및 신규 데이터 입력에 따라 예측이 잘 되는지 실험
-- 새로 배우게 될 것들
-  - json 파일을 다루는 법 및 api 파일을 읽어오는 방법
-  - 효과적인 인사이트 도출을 위한 다양한 시각화 방법
-  - 예측 모델의 저장 및 활용 방법
-
-## 진행완료
+- 현재 진행 완료 사항
+  - 공공API 불러오기 및 json 파일 전처리 완료
+  - 기본 데이터 탐색 완료
+  - 비장애인 데이터 기준, 키/몸무게/나이/체력 데이터 바탕 체지방 예측 model serving
+- 추후 진행 사항
+  - 데이터 구축 방법 고려
+  - 시각화 페이지 추가 및 효과적인 시각화를 통한 데이터 전달방법 고려.
+  - 사이트 배포하는 방법에 대한 고려
 
 ### Credit_Card Fraud detection ('21.11.2 1차 개선 시도 완료)
-- Project 설명 : 신용카드 사용 이력에 따른 사기 검출 모델 생성
-- 발전 방향 : Imbalanced data를 효과적으로 처리할 수 있는 방향에 대해 고려.
-- Obstacle : Precision 대비 Recall이 매우 낮으며, Recall을 잡으면 Precision이 매우 낮아져 고민. PCA 등도 크게 유효하지 않아보임.
-- 실제로 Recall이 1이나 Precision이 0.04 정도인 RandomForest를 만들 수 있기에..더 고민.
-- 추가 학습 진행 후 개선 예정.
+- Project 목표
+  - 신용카드 사용 이력에 따른 사기 검출 모델 생성
+  - 사기 판단 기준의 확인 
+- 현재 진행 완료 상황
+  - 변수별 EDA 및 기본 전처리 완료
+  - 시간, 금액의 이상치 등 이상이 더 많이 발생한 변수에 대한 확인 완료
+  - 기본적인 0-1 Encoding을 통한 BaseModel 수립 및 다양한 모델 실험 완료
+- 추후 진행 사항
+  - Imbalanced data를 효과적으로 처리할 수 있는 방향에 대해 고려.
+  - Obstacle : Precision 대비 Recall이 매우 낮으며, Recall을 잡으면 Precision이 매우 낮아져 고민. PCA 등도 크게 유효하지 않아보임.
+    - 실제로 Recall이 1이나 Precision이 0.04 정도인 RandomForest를 만들 수 있기에..더 고민.
 
 ### Common Readability Prize (2021.9~)
 - Project 설명 : 영어 지문의 난이도를 평가하는 프로젝트
