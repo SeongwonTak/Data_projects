@@ -1,0 +1,11 @@
+# (Mini-Proj) Physical Fitness Project
+- Project 목표
+  - 체력평가 및 신체검사 데이터를 바탕으로 한 체지방 역추적
+  - Model 저장 및 Flask를 통한 간단한 Model-Serving 실시
+- Project 진행사항
+  - 공공api를 통한 Data 불러오기 실시
+  - EDA 및 간단한 선형회귀 모델 생성
+  - 해당 Model을 저장 후 Flask에 Upload
+- 추후 진행 가능 사항
+  - Data 기록을 적재할 수 있도록 재구현
+  - ID구분을 통해 예측일 별로 데이터를 저장하여, 이를 시각화 리포팅 할 수 있도록 만들기
