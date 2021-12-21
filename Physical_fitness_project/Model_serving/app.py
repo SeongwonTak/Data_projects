@@ -21,7 +21,7 @@ def get_fat():
     data_jump = request.form['data_jump']
     data_shuttle = request.form['data_shuttle']
     data = np.array([[data_age, data_height, data_weight, data_jump, data_shuttle]])
-    pred = model.predict(data)
+    pred = round(float(model.predict(data)), 2)
     # 유효하지 않은 값을 뱉을 수 있으므로, 이를 방지하기 위한 예외 처리를 넣는다.
     if pred < 0:
         pred = 0
