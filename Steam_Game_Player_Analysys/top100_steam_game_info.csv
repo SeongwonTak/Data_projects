@@ -1,0 +1,101 @@
+,Game,top_5_tags,review_level,review_count
+0,Counter-Strike: Global Offensive,"['FPS', 'Shooter', 'Multiplayer', 'Competitive', 'Action']",Very Positive,6137078
+1,Dota 2,"['Free to Play', 'MOBA', 'Multiplayer', 'Strategy', 'eSports']",Mostly Positive,1652880
+2,PUBG: BATTLEGROUNDS,"['Survival', 'Shooter', 'Multiplayer', 'Battle Royale', 'FPS']",Mixed,1892443
+3,Apex Legends,"['Free to Play', 'Battle Royale', 'Multiplayer', 'Shooter', 'First-Person']",Very Positive,372061
+4,Grand Theft Auto V,"['Open World', 'Action', 'Multiplayer', 'Automobile Sim', 'Crime']",Very Positive,1276139
+5,NARAKA: BLADEPOINT,"['Battle Royale', 'Multiplayer', 'Martial Arts', 'Sexual Content', 'Survival']",Mostly Positive,85160
+6,Team Fortress 2,"['Free to Play', 'Hero Shooter', 'Multiplayer', 'FPS', 'Shooter']",Very Positive,840104
+7,MIR4,"['PvE', 'PvP', 'MMORPG', 'Demons', 'Martial Arts']",Mixed,10534
+8,Wallpaper Engine,"['Mature', 'Utilities', 'Software', 'Anime', 'Design & Illustration']",Overwhelmingly Positive,459012
+9,Rust,"['Survival', 'Crafting', 'Multiplayer', 'Open World', 'Open World Survival Craft']",Very Positive,732892
+10,Warframe,"['Free to Play', 'Looter Shooter', 'Action', 'Multiplayer', 'Co-op']",Very Positive,467752
+11,ARK: Survival Evolved,"['Open World Survival Craft', 'Survival', 'Open World', 'Multiplayer', 'Dinosaurs']",Very Positive,494262
+12,Destiny 2,"['Free to Play', 'PvP', 'Open World', 'Looter Shooter', 'FPS']",Very Positive,436136
+13,Football Manager 2022,"['Sports', 'Management', 'Real Time Tactics', 'Simulation', 'Soccer']",Very Positive,9446
+14,Unturned,"['Free to Play', 'Survival', 'Zombies', 'Open World Survival Craft', 'Multiplayer']",Very Positive,463355
+15,Terraria,"['Open World Survival Craft', 'Sandbox', 'Survival', '2D', 'Multiplayer']",Overwhelmingly Positive,895677
+16,PAYDAY 2,"['Co-op', 'Action', 'FPS', 'Heist', 'Looter Shooter']",Overwhelmingly Positive,559933
+17,Tom Clancy's Rainbow Six Siege,"['FPS', 'Hero Shooter', 'Multiplayer', 'Tactical', 'Shooter']",Very Positive,1019322
+18,Project Zomboid,"['Survival', 'Zombies', 'Open World', 'Open World Survival Craft', 'Multiplayer']",Very Positive,68148
+19,Sid Meier's Civilization VI,"['Strategy', 'Turn-Based Strategy', 'Historical', 'Multiplayer', 'Singleplayer']",Very Positive,198214
+20,7 Days to Die,"['Survival', 'Zombies', 'Voxel', 'Open World', 'Open World Survival Craft']",Very Positive,201877
+21,The Witcher 3: Wild Hunt,"['Open World', 'RPG', 'Story Rich', 'Atmospheric', 'Mature']",Overwhelmingly Positive,596903
+22,Stardew Valley,"['Farming Sim', 'Life Sim', 'Pixel Graphics', 'RPG', 'Multiplayer']",Overwhelmingly Positive,430154
+23,Dead by Daylight,"['Horror', 'Survival Horror', 'Multiplayer', 'Online Co-Op', 'Survival']",Mostly Positive,568965
+24,Don't Starve Together,"['Survival', 'Open World Survival Craft', 'Multiplayer', 'Co-op', 'Open World']",Overwhelmingly Positive,314704
+25,FINAL FANTASY XIV Online,"['MMORPG', 'RPG', 'Massively Multiplayer', 'Fantasy', 'JRPG']",Very Positive,52265
+26,FIFA 22,"['Soccer', 'Sports', 'Multiplayer', 'Competitive', 'Simulation']",Mostly Positive,33709
+27,Hearts of Iron IV,"['Strategy', 'World War II', 'Grand Strategy', 'Historical', 'War']",Very Positive,164251
+28,War Thunder,"['Free to Play', 'World War II', 'Multiplayer', 'Simulation', 'War']",Mostly Positive,269638
+29,SUPER PEOPLE CBT,"['Battle Royale', 'Shooter', 'Survival', 'Massively Multiplayer', 'Action']",cannot_find,0
+30,Red Dead Redemption 2,"['Open World', 'Adventure', 'Story Rich', 'Western', 'Action']",Very Positive,238863
+31,DayZ,"['Survival', 'Zombies', 'Multiplayer', 'Open World', 'Action']",Very Positive,290732
+32,Mount & Blade II: Bannerlord,"['Medieval', 'Strategy', 'Open World', 'RPG', 'War']",Very Positive,178532
+33,World of Tanks Blitz,"['Tanks', 'Free to Play', 'Action', 'Multiplayer', 'World War II']",Mostly Positive,99723
+34,Myth of Empires,[],cannot_find,0
+35,VRChat,"['VR', 'Free to Play', 'Memes', 'Anime', 'Multiplayer']",Very Positive,118991
+36,Monster Hunter: World,"['Co-op', 'Multiplayer', 'Action', 'Open World', 'RPG']",Very Positive,342758
+37,The Elder Scrolls V: Skyrim Special Edition,"['Open World', 'RPG', 'Adventure', 'Singleplayer', 'Fantasy']",Very Positive,198155
+38,Valheim,"['Open World Survival Craft', 'Survival', 'Online Co-Op', 'Open World', 'Multiplayer']",Very Positive,321682
+39,Left 4 Dead 2,"['Zombies', 'Co-op', 'FPS', 'Multiplayer', 'Shooter']",Overwhelmingly Positive,580013
+40,Cookie Clicker,"['Clicker', 'Idler', 'Casual', 'Indie', 'Pixel Graphics']",Overwhelmingly Positive,28144
+41,Garry's Mod,"['Sandbox', 'Multiplayer', 'Funny', 'Moddable', 'Building']",Overwhelmingly Positive,781931
+42,Battlefield™ V,"['FPS', 'World War II', 'Shooter', 'Multiplayer', 'Singleplayer']",Mostly Positive,96832
+43,tModLoader,"['Adventure', 'Action', 'Indie', 'RPG', 'Free to Play']",Overwhelmingly Positive,102640
+44,Total War: WARHAMMER II,"['Strategy', 'Fantasy', 'Turn-Based Strategy', 'RTS', 'Grand Strategy']",Very Positive,108817
+45,RimWorld,"['Colony Sim', 'Base Building', 'Survival', 'Strategy', 'Management']",Overwhelmingly Positive,122892
+46,Euro Truck Simulator 2,"['Transportation', 'Driving', 'Simulation', 'Open World', 'Automobile Sim']",Overwhelmingly Positive,507894
+47,Cities: Skylines,"['City Builder', 'Simulation', 'Building', 'Management', 'Strategy']",Very Positive,181746
+48,NBA 2K22,"['Sports', 'Basketball', 'Simulation', 'eSports', 'Realistic']",Mixed,13105
+49,Farming Simulator 22,"['Co-op', 'Simulation', 'Farming Sim', 'Agriculture', 'Moddable']",Very Positive,20292
+50,Black Desert,"['MMORPG', 'Massively Multiplayer', 'RPG', 'Open World', 'Character Customization']",Mostly Positive,52462
+51,雀魂麻将(MahjongSoul),"['Psychological Horror', 'Souls-like', 'Free to Play', 'Sexual Content', 'Casual']",Mixed,21854
+52,Stellaris,"['Space', 'Grand Strategy', 'Sci-fi', 'Strategy', 'Exploration']",Very Positive,120932
+53,DARK SOULS™ III,"['Souls-like', 'Dark Fantasy', 'Difficult', 'RPG', 'Atmospheric']",Very Positive,307404
+54,Rocket League,"['Multiplayer', 'Soccer', 'Competitive', 'Sports', 'Racing']",Very Positive,545437
+55,Halo Infinite,"['FPS', 'Free to Play', 'Multiplayer', 'Action', 'First-Person']",Mostly Positive,122890
+56,鬼谷八荒 Tale of Immortal,"['RPG', 'Adventure', 'Sandbox', 'Mythology', 'Exploration']",Very Positive,126472
+57,The Elder Scrolls Online,"['RPG', 'MMORPG', 'Open World', 'Massively Multiplayer', 'Multiplayer']",Very Positive,113936
+58,Sid Meier's Civilization V,"['Turn-Based Strategy', 'Strategy', 'Turn-Based', 'Multiplayer', 'Historical']",Overwhelmingly Positive,181458
+59,Fallout 4,"['Open World', 'Post-apocalyptic', 'Exploration', 'Singleplayer', 'RPG']",Very Positive,267680
+60,The Binding of Isaac: Rebirth,"['Action Roguelike', 'Roguelike', 'Indie', 'Replay Value', 'Difficult']",Overwhelmingly Positive,185198
+61,Europa Universalis IV,"['Grand Strategy', 'Historical', 'Simulation', 'Alternate History', 'Economy']",Very Positive,101473
+62,Football Manager 2021,"['Sports', 'Simulation', 'Management', 'Multiplayer', 'Singleplayer']",Very Positive,22364
+63,Cyberpunk 2077,"['Cyberpunk', 'Open World', 'RPG', 'Sci-fi', 'Futuristic']",Mostly Positive,485445
+64,New World,"['Massively Multiplayer', 'Open World', 'MMORPG', 'RPG', 'Adventure']",Mixed,214390
+65,The Sims™ 4,"['Life Sim', 'Character Customization', 'Building', 'Simulation', 'Sexual Content']",Very Positive,40258
+66,Spacewar,[],cannot_find,0
+67,Bloons TD 6,"['Strategy', 'Tower Defense', 'Multiplayer', 'Singleplayer', 'Co-op']",Overwhelmingly Positive,157643
+68,Yu-Gi-Oh! Duel Links,"['Free to Play', 'Card Game', 'Anime', 'Strategy', 'Multiplayer']",Very Positive,35365
+69,It Takes Two,"['Co-op', 'Adventure', 'Split Screen', 'Multiplayer', 'Puzzle']",Overwhelmingly Positive,66679
+70,Age of Empires II: Definitive Edition,"['Strategy', 'RTS', 'City Builder', 'Multiplayer', 'Base Building']",Overwhelmingly Positive,93763
+71,Brawlhalla,"['Free to Play', 'Multiplayer', 'Fighting', 'Casual', '2D Fighter']",Very Positive,263901
+72,Satisfactory,"['Base Building', 'Automation', 'Open World', 'Multiplayer', 'Crafting']",Overwhelmingly Positive,83439
+73,Sea of Thieves,"['Adventure', 'Multiplayer', 'Open World', 'Pirates', 'Action']",Very Positive,192759
+74,Dead Cells,"['Roguelite', 'Metroidvania', 'Pixel Graphics', 'Roguelike', 'Souls-like']",Overwhelmingly Positive,95311
+75,Oxygen Not Included,"['Colony Sim', 'Base Building', 'Survival', 'Resource Management', 'Building']",Overwhelmingly Positive,79010
+76,World of Warships,"['Naval Combat', 'Free to Play', 'Massively Multiplayer', 'Naval', 'World War II']",Very Positive,94053
+77,Forza Horizon 5,"['Racing', 'Open World', 'Driving', 'Adventure', 'Automobile Sim']",Very Positive,56688
+78,Soundpad,"['Utilities', 'Audio Production', 'Music', 'Software', 'Memes']",Overwhelmingly Positive,34709
+79,SCUM,"['Survival', 'Open World Survival Craft', 'Multiplayer', 'Open World', 'Zombies']",Very Positive,65897
+80,Phasmophobia,"['Horror', 'Online Co-Op', 'Multiplayer', 'Psychological Horror', 'Co-op']",Overwhelmingly Positive,385066
+81,Crusader Kings III,"['Strategy', 'RPG', 'Simulation', 'Medieval', 'Grand Strategy']",Very Positive,66114
+82,Slay the Spire,"['Roguelike Deckbuilder', 'Card Battler', 'Card Game', 'Roguelike', 'Deckbuilding']",Overwhelmingly Positive,104562
+83,Age of Empires IV,"['Strategy', 'RTS', 'Multiplayer', 'Medieval', 'Singleplayer']",Very Positive,27593
+84,Factorio,"['Automation', 'Base Building', 'Resource Management', 'Sandbox', 'Crafting']",Overwhelmingly Positive,135838
+85,Forza Horizon 4,"['Racing', 'Open World', 'Driving', 'Multiplayer', 'Online Co-Op']",Very Positive,112908
+86,Sekiro™: Shadows Die Twice,"['Souls-like', 'Difficult', 'Action', 'Singleplayer', 'Ninja']",Very Positive,165079
+87,Total War: THREE KINGDOMS,"['Strategy', 'Historical', 'War', 'Turn-Based Strategy', 'Grand Strategy']",Very Positive,87842
+88,Arma 3,"['Action', 'Multiplayer', 'Military', 'Simulation', 'Shooter']",Very Positive,212845
+89,Hunt: Showdown,"['Multiplayer', 'Hunting', 'FPS', 'Dark', 'Battle Royale']",Very Positive,117639
+90,SMITE,"['Free to Play', 'MOBA', 'Multiplayer', 'Action', 'Third Person']",Mostly Positive,94617
+91,Dying Light,"['Zombies', 'Survival Horror', 'Horror', 'Online Co-Op', 'Open World']",Overwhelmingly Positive,299210
+92,Dyson Sphere Program,"['Space', 'Automation', 'Base Building', 'Open World', 'Building']",Overwhelmingly Positive,56747
+93,The Forest,"['Open World Survival Craft', 'Survival', 'Open World', 'Horror', 'Crafting']",Overwhelmingly Positive,335774
+94,Counter-Strike,"['Action', 'FPS', 'Multiplayer', 'Shooter', 'Classic']",Overwhelmingly Positive,196504
+95,Hollow Knight,"['Metroidvania', 'Souls-like', 'Platformer', 'Great Soundtrack', 'Difficult']",Overwhelmingly Positive,199446
+96,Fall Guys: Ultimate Knockout,"['Multiplayer', 'Party Game', 'Battle Royale', 'Family Friendly', 'Massively Multiplayer']",Mostly Positive,417357
+97,Conan Exiles,"['Survival', 'Open World', 'Building', 'Nudity', 'Crafting']",Very Positive,75204
+98,Melvor Idle,"['Idler', 'Casual', 'RPG', 'Indie', 'Adventure']",Very Positive,4691
+99,Divinity: Original Sin 2,"['Tactical RPG', 'Exploration', 'Turn-Based Strategy', 'Story Rich', 'RPG']",Very Positive,138167
