@@ -6,9 +6,17 @@ Data 분석 관련 진행 개인 Project 모음입니다.
  
 ## 현재 작업중
 
+### Steam Game Player Analysis (2022.01.10~ )
+- Project 목표 :
+- 주요 기술/목표단계 :
+  - Crawling을 활용한 필요 데이터 수집 및 정제 작업 (완료)
+  - Google Big Query를 활용한 필요 데이터 추출 및 테이블 저장 (진행중)
+  - Google Data Studio를 활용한 데이터 시각화 및 대시보드 작성, Insight 도출 (진행중)
+  - Game Label에 대한 분석 실시
+
 ## 1차 진행완료
 
-### Physical Fitness Analysis (1차 '21.11.27~'21.12.9)
+### (Mini) Physical Fitness Analysis (1차 '21.11.27~'21.12.9)
 - Project 목표 : 
   - 장애인 및 비장애인의 체력 검정 결과에 따른 신체 차이 특성 분석
   - 체력 검정 결과에 따른 BMI등 건강 관련 지표의 예측
@@ -21,6 +29,9 @@ Data 분석 관련 진행 개인 Project 모음입니다.
   - 데이터 구축 방법 고려
   - 시각화 페이지 추가 및 효과적인 시각화를 통한 데이터 전달방법 고려.
   - 사이트 배포하는 방법에 대한 고려
+- 배운사항
+  - 공공API 불러오는 법 및 json 파일 사용에 대한 실습
+  - 간단한 flask를 활용하여 model의 데이터를 어떻게 넘겨올 수 있는지 실습
 
 ### Credit_Card Fraud detection ('21.11.2 1차 개선 시도 완료)
 - Project 목표
