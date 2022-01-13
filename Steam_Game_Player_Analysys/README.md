@@ -1,5 +1,8 @@
 # Steam Game Player Analysis
 
+## 시각화 페이지 (작업중)
+  - https://datastudio.google.com/reporting/98dcd3dc-40cc-4eeb-9835-b06d545be64b
+
 ## 프로젝트 개요
 - Steam 게임에 대한 분석
   - 플레이어 수 top 100 게임에 대한 분석
