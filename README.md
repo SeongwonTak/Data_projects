@@ -10,9 +10,9 @@ Data 분석 관련 진행 개인 Project 모음입니다.
 - Project 목표 :
 - 주요 기술/목표단계 :
   - Crawling을 활용한 필요 데이터 수집 및 정제 작업 (완료)
-  - Google Big Query를 활용한 필요 데이터 추출 및 테이블 저장 (진행중)
+  - Google Big Query를 활용한 필요 데이터 추출 및 테이블 저장 (완료)
   - Google Data Studio를 활용한 데이터 시각화 및 대시보드 작성, Insight 도출 (진행중)
-  - Game Label에 대한 분석 실시
+  - Game Label에 대한 분석 실시 (진행중)
 
 ## 1차 진행완료
 
